@@ -1,5 +1,3 @@
-# To-Do_List-Project
-
 # To-Do List Web App
 A simple task management web application built using HTML, CSS, and JavaScript.
 
@@ -11,6 +9,6 @@ A simple task management web application built using HTML, CSS, and JavaScript.
 ## Tech Stack
 - HTML5
 - CSS3
-- JavaScript (ES6)
+- JavaScript
 - LocalStorage API
 
